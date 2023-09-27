@@ -1,3 +1,5 @@
 # vendingmachine
-csci291 vending machine task 
+csci291 vending machine 
+task
+read me file
 
