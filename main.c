@@ -6,7 +6,7 @@
 #define MIN 5
 #define total_amount 
 
-int main(void)
+int main()
 {
 char A = 5;
 char B = 10;
@@ -17,8 +17,12 @@ char i = NULL;
 char status = "N";
 
 
+printf("VENDING MACHINE");
+
+printf("Please Choose An item:  /n");
 
 
+return;
 
 }
     
