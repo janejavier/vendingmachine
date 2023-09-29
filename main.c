@@ -8,21 +8,19 @@
 
 int main()
 {
-char A = 5;
-char B = 10;
-char C = 15;
-char quit = "q";
-char currency = "DHS"
-char i = NULL;
-char status = "N";
+
+printf("VENDING MACHINE \n");
+printf("Please Choose An item: \n");
+
+int Option1 = 5;
+int Option2 = 10;
+int Option3 = 15;
+printf(" A = %d DHS \n", Option1);
+printf(" B = %d DHS \n", Option2);
+printf(" C = %d DHS \n", Option3);
 
 
-printf("VENDING MACHINE");
-
-printf("Please Choose An item:  /n");
-
-
-return;
+return 0;
 
 }
     
